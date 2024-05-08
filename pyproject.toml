@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "screentimeoff"
+version = "0.1.0"
+description = ""
+authors = ["Suman Sunuwar <jaycessunuwar@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+PyQt5 = "^5.15.10"
+pygame = "^2.5.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
