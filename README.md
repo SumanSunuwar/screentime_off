@@ -20,7 +20,7 @@ The 20-20-20 Eye Protection App is a desktop application developed using PyQt5, 
 8. Take a 20-second break, then the timer will automatically restart.
 
 ## App screenshot
-![alt text](https://github.com/SumanSunuwar/screentime_off/blob/main/media/images/Screenshot%202024-05-08%20at%2016.58.10.png?raw=true)
+![App Screenshot](https://github.com/SumanSunuwar/screentime_off/blob/main/media/images/Screenshot%202024-05-08%20at%2016.58.10.png?raw=true)
 
 ## Technologies Used
 - Python
